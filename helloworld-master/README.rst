@@ -1,4 +1,4 @@
-helloworld
+helloworld   _DEVOPS CLass
 ==========
 
 A Django 'hello world' example.
